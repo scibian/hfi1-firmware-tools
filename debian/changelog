@@ -1,0 +1,7 @@
+hfi1-firmware-tools (10.7.0.0-3-1ifs+deb9) UNRELEASED; urgency=medium
+
+  * Import hfi1-firmware-tools 10.7.0.0-3 from FirmwareTools-RHEL74
+    10.7.0.0.3 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Mon, 16 Jul 2018 16:34:29 -0500
+

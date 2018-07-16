@@ -1,0 +1,15 @@
+Source: hfi1-firmware-tools
+Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
+Section: non-free/misc
+Priority: extra
+Standards-Version: 3.9.8
+Homepage: http://www.intel.com
+Build-Depends: debhelper (>= 10),
+
+Package: hfi1-firmware-tools
+Architecture: amd64
+Depends: ${misc:Depends},
+         ${shlibs:Depends},
+Description: EPROM and TMM Firmware Tools
+ Contains EPROM and TMM Firmware Tools. These tools are used to manage the
+ firmware and ROM that are loaded to the hfi1 EPROM.
