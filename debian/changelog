@@ -1,3 +1,17 @@
+hfi1-firmware-tools (10.9.2.0-3-1ifs+deb8) jessie; urgency=medium
+
+  * Import hfi1-firmware-tools 10.9.2.0-3 from FirmwareTools
+    10.9.2.0.3 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Wed, 17 Apr 2019 09:53:32 -0500
+
+hfi1-firmware-tools (10.9.0.1-4-1ifs+deb8) jessie; urgency=medium
+
+  * Import hfi1-firmware-tools 10.9.0.1-4 from FirmwareTools
+    10.9.0.1.4 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Tue, 29 Jan 2019 17:22:39 -0600
+
 hfi1-firmware-tools (10.8.0.0-13-1ifs+deb8) jessie; urgency=medium
 
   * Import hfi1-firmware-tools 10.8.0.0-13 from FirmwareTools-RHEL75
