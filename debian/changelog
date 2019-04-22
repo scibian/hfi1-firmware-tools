@@ -1,10 +1,25 @@
-hfi1-firmware-tools (10.7.0.0-3-1ifs+deb9sci9+opa10.7u1) scibian9+opa10.7; urgency=medium
+hfi1-firmware-tools (10.9.2.0-3-1ifs+deb9) stretch; urgency=medium
 
-  * Rebuild for scibian9+opa10.7
+  * Import hfi1-firmware-tools 10.9.2.0-3 from FirmwareTools
+    10.9.2.0.3 upstream.
 
- -- Rémi Palancher <remi-externe.palancher@edf.fr>  Wed, 26 Aug 2018 14:34:12 +0200
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Mon, 22 Apr 2019 18:05:09 -0500
 
-hfi1-firmware-tools (10.7.0.0-3-1ifs+deb9) UNRELEASED; urgency=medium
+hfi1-firmware-tools (10.9.0.1-4-1ifs+deb9) stretch; urgency=medium
+
+  * Import hfi1-firmware-tools 10.9.0.1-4 from FirmwareTools
+    10.9.0.1.4 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Tue, 19 Feb 2019 16:21:13 -0600
+
+hfi1-firmware-tools (10.8.0.0-13-1ifs+deb9) stretch; urgency=medium
+
+  * Import hfi1-firmware-tools 10.8.0.0-13 from FirmwareTools-RHEL75
+    10.8.0.0.13 upstream.
+
+ -- Brian T. Smith <bsmith@systemfabricworks.com>  Wed, 31 Oct 2018 12:43:08 -0500
+
+hfi1-firmware-tools (10.7.0.0-3-1ifs+deb9) stretch; urgency=medium
 
   * Import hfi1-firmware-tools 10.7.0.0-3 from FirmwareTools-RHEL74
     10.7.0.0.3 upstream.
