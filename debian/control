@@ -1,10 +1,12 @@
 Source: hfi1-firmware-tools
-Maintainer: Brian T. Smith <bsmith@systemfabricworks.com>
+Maintainer: Scibian Project <packaging@scibian.org>
 Section: non-free/misc
 Priority: extra
 Standards-Version: 3.9.8
 Homepage: http://www.intel.com
 Build-Depends: debhelper (>= 10),
+Vcs-Git: https://github.com/scibian/hfi1-firmware-tools.git
+Vcs-Browser: https://github.com/scibian/hfi1-firmware-tools
 
 Package: hfi1-firmware-tools
 Architecture: amd64
